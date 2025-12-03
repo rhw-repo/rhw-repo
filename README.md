@@ -28,8 +28,3 @@ Testing, optimisation for mobile.
 # Dev Environment for VSCode: 
 Current: iMac 
 Previous: Xubuntu (Linux distro based on Debian running in a dual boot machine) & Windows
-
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-  [![Connect with me](https://img.shields.io/badge/Connect%20with%20me-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruth-westnidge/)
-</p>
