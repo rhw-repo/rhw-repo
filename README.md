@@ -29,7 +29,5 @@ Testing, optimisation for mobile.
 Current: iMac 
 Previous: Xubuntu (Linux distro based on Debian running in a dual boot machine) & Windows
 
-<a href="https://www.linkedin.com/in/ruth-westnidge/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 4px; text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="20" height="20" />
-  <span style="font-weight: 600; color: inherit;">Connect with me</span>
-</a>
+<p align="center"[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)[![Connect with me](https://img.shields.io/badge/Connect%20with%20me-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruth-westnidge/)
+</p>
