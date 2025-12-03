@@ -1,4 +1,4 @@
-## Frontend Developer: React | TypeScript | JavaScript| HTML5 | CSS3 | Node | Git | Backend experience 
+# Frontend Developer: React | TypeScript | JavaScript| HTML5 | CSS3 | Node | Git | Backend experience 
 
 # Frontend
 React Hooks, React Context, React Router DOM, Rest APIs
