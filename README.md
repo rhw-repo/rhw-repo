@@ -19,10 +19,11 @@ NVDA / Voice Over (Mac) Screen Reader, WAVE accessibility testing.
 # Current interests: 
 Testing, optimisation for mobile.  
 
-Dev Environment for VSCode: 
+# Dev Environment for VSCode: 
 Current: iMac 
 Previous: Xubuntu (Linux distro based on Debian running in a dual boot machine) & Windows
 
-Connect with me: 
+# Connect with me: 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ruth-westnidge/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruth-westnidge/)
+
