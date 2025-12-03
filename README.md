@@ -1,4 +1,5 @@
 # Frontend Developer: React | TypeScript | JavaScript| HTML5 | CSS3 | Node | Git | Backend experience 
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,git" />
@@ -28,7 +29,7 @@ Testing, optimisation for mobile.
 Current: iMac 
 Previous: Xubuntu (Linux distro based on Debian running in a dual boot machine) & Windows
 
-# Connect with me: 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruth-westnidge/)
-
+<a href="https://www.linkedin.com/in/ruth-westnidge/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 4px; text-decoration: none;">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="20" height="20" />
+  <span style="font-weight: 600; color: inherit;">Connect with me</span>
+</a>
