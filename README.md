@@ -21,12 +21,16 @@ I have been the sole developer to:
 
 - Integrate a React & JavaScript frontend with a MERN stack backend including authorisation and protected routes using server side sessions
 
+---
+
 ### Frontend
 
 - React Hooks, React Context, React Router DOM, Rest APIs
 - Responsive design and accessibility, CSS Modules, Styled-Components, Tailwind CSS
 - React library components
 - Jason Web Tokens (JWT)
+
+---
 
 ### Backend Experience
 
@@ -35,6 +39,8 @@ Built & deployed middleware and backend to integrate with a React frontend:
 - Express (Express-Sessions, Express-Validator, Helmet, CORS)
 - Mongo databases with Mongoose (Mongo Atlas clusters and Docker images with volumes)
 
+---
+
 ### Deployment & Tooling
 
 - Docker & Docker Compose. Lighthouse. Deployment with Railway.com.
@@ -42,11 +48,21 @@ Built & deployed middleware and backend to integrate with a React frontend:
 - Postman, SonarQube, Lighthouse, Prettier & ESLint, careful use of AI powered coding tools.
 - NVDA / Voice Over (Mac) Screen Reader, WAVE accessibility testing.
 
+---
+
 ### Current interests:
 
 - React Query, Redux, Tailwind CSS, optimisation.
+
+---
 
 ### Dev Environment for VSCode:
 
 - Current: iMac
 - Previous: Xubuntu (Linux distro based on Debian running in a dual boot machine) & Windows
+
+---
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/ruth-westnidge/)
