@@ -1,4 +1,5 @@
-## Frontend Developer: React | TypeScript | JavaScript| HTML5 | CSS3 | Node | Git | Backend experience 
+## Frontend Developer: React | TypeScript | JavaScript | Node | Backend experience
+
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -6,30 +7,46 @@
   </a>
 </p>
 
-### Frontend
-- React Hooks, React Context, React Router DOM, Rest APIs
-- Responsive design and accessibility
-- Git & GitHub, Docker, npm, Tanstack Table & React library components, Styled-Components
-- Jason Web Tokens (JWT), DOM Purify
+I am a frontend focused developer specialising in React, TypeScript, JavaScript, with backend experience. My current interests include Redux, Tailwind CSS with Tailwind Variables & React Query. I have 2 years of experience in the industry and I have built applications for the Mining Exploration and Financial Products Marketing industries.
 
+Responsible for frontend in a 2 developer team.
+
+You can see evidence of my work on my React websites for the Mining Exploration Investment sector and fullstack dashboard app for the Financial Products Marketing industry.
+
+I have been the sole developer to:
+
+- Raise Lighthouse scores in a website overhaul demo by up to 40 points without a CDN and with a large video hero
+
+- Design & implement accessible and responsive designs for any size device, from static webpages to tables with multiple dynamic filters
+
+- Integrate a React & JavaScript frontend with a MERN stack backend including authorisation and protected routes using server side sessions
+
+### Frontend
+
+- React Hooks, React Context, React Router DOM, Rest APIs
+- Responsive design and accessibility, CSS Modules, Styled-Components, Tailwind CSS
+- React library components
+- Jason Web Tokens (JWT)
 
 ### Backend Experience
-Built & deployed middleware and backend to integrate with a React frontend: 
 
-- Express (Express-Sessions, Express-Validator, Helmet, CORS)  
-- Mongo databases with Mongoose  (Mongo Atlas clusters and Docker images with volumes)
+Built & deployed middleware and backend to integrate with a React frontend:
 
+- Express (Express-Sessions, Express-Validator, Helmet, CORS)
+- Mongo databases with Mongoose (Mongo Atlas clusters and Docker images with volumes)
 
 ### Deployment & Tooling
-- Docker & Docker Compose. Lighthouse. Deployment with Railway.com.
-- Postman, SonarQube, Lighthouse, Prettier & ESLint, careful use of AI powered coding tools.
-- NVDA / Voice Over (Mac) Screen Reader, WAVE accessibility testing. 
 
+- Docker & Docker Compose. Lighthouse. Deployment with Railway.com.
+- Git & GitHub, npm
+- Postman, SonarQube, Lighthouse, Prettier & ESLint, careful use of AI powered coding tools.
+- NVDA / Voice Over (Mac) Screen Reader, WAVE accessibility testing.
 
 ### Current interests:
-- Testing, optimisation for mobile.  
 
+- React Query, Redux, Tailwind CSS, optimisation.
 
 ### Dev Environment for VSCode:
-- Current: iMac 
+
+- Current: iMac
 - Previous: Xubuntu (Linux distro based on Debian running in a dual boot machine) & Windows
