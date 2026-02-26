@@ -27,7 +27,7 @@ I have been the sole developer to:
 
 - **React Hooks**, **React Context**, **React Router**, **Rest APIs**
 - Responsive design and accessibility, **CSS Modules**, **Styled-Components**, **Tailwind CSS**
-- **React library components**
+- **React library components**, **shadcn/ui components**
 - Jason Web Tokens (**JWT**)
 
 ---
@@ -43,10 +43,10 @@ Built & deployed middleware and backend to integrate with a React frontend:
 
 ### Deployment & Tooling
 
-- **Docker** & **Docker Compose**. **Lighthouse**. Deployment with Railway.com.
+- **Docker** & **Docker Compose**. **Deployment** with Railway.com. **Lighthouse**.
 - Git & GitHub, npm
-- Postman, SonarQube, Lighthouse, Prettier & ESLint, careful use of AI powered coding tools.
-- NVDA / Voice Over (Mac) Screen Reader, WAVE accessibility testing.
+- Postman, SonarQube, Prettier & ESLint, careful use of AI powered coding tools.
+- NVDA / Voice Over (Mac) Screen Reader, WAVE **accessibility testing**.
 
 ---
 
