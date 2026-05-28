@@ -1,4 +1,4 @@
-## Frontend Developer: React | TypeScript | JavaScript | Node | Backend experience
+## Frontend Developer: React | TypeScript | JavaScript | Node | Backend
 
 <br>
 <p align="center">
@@ -7,7 +7,13 @@
   </a>
 </p>
 
-I am a frontend focused developer specialising in **React**, **TypeScript**, **JavaScript**, with **backend** experience. My current interests include **Redux**, **Tailwind CSS** with **Tailwind Variables** & **React Query**. I have 2 years of experience in the industry and I have built applications for the Mining Exploration and Financial Products Marketing industries.
+I am a frontend focused developer specialising in **React**, **TypeScript**, **JavaScript** (**Tanstack Query, React Router, shadcn/ui, Tailwind CSS, styled-components, Vitest, Lighthouse, accessibility**) with **backend** experience. I speak **English** (native) and **Spanish**.
+
+Currently developing a **React** dashboard utilising **Tanstack Table** and **ECharts**.
+
+On the backend I have worked with **MongoDB**, **Mongoose**, **Express** and **Node.js**.
+
+I have 2 years of experience in the industry and I have built applications for the Mining Exploration Investment and Financial Products Marketing industries.
 
 Responsible for frontend in a 2 developer team.
 
@@ -25,16 +31,16 @@ I have been the sole developer to:
 
 ### Frontend
 
-- **React Hooks**, **React Context**, **React Router**, **Rest APIs**
+- **React Hooks**, **React Context**, **React Router**, **Rest APIs**, **Tanstack Query**, **Node.js**
 - Responsive design and accessibility, **CSS Modules**, **Styled-Components**, **Tailwind CSS**
 - **React library components**, **shadcn/ui components**
-- Jason Web Tokens (**JWT**)
+- **Vitest**
 
 ---
 
 ### Backend Experience
 
-Built & deployed middleware and backend to integrate with a React frontend:
+Built & deployed middleware and backend to integrate with React:
 
 - **Express** (**Express-Sessions**, **Express-Validator**, **Helmet**, **CORS**)
 - **Mongo** databases with **Mongoose** (**Mongo Atlas** clusters and **Docker** images with volumes)
@@ -43,16 +49,17 @@ Built & deployed middleware and backend to integrate with a React frontend:
 
 ### Deployment & Tooling
 
-- **Docker** & **Docker Compose**. **Deployment** with Railway.com. **Lighthouse**.
-- Git & GitHub, npm
-- Postman, SonarQube, Prettier & ESLint, careful use of AI powered coding tools.
-- NVDA / Voice Over (Mac) Screen Reader, WAVE **accessibility testing**.
+- **Docker** & **Docker Compose**. **Deployment** with Railway.com. **Lighthouse**
+- **Claude Code**, **GitHub Copilot** assisted coding in VS Code; LLMs (Open AI o4-mini until withdrawn, Gemini)
+- Git & GitHub, npm, pnpm
+- Postman, SonarQube, Prettier & ESLint
+- NVDA / Voice Over (Mac) Screen Reader, WAVE **accessibility testing**
 
 ---
 
 ### Current interests:
 
-- **React Query**, **Redux**, **Tailwind CSS**, optimisation.
+- Polling versus socket.io to sync database and UI
 
 ---
 
