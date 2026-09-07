@@ -1,4 +1,4 @@
-## Frontend Developer: React | TypeScript | JavaScript | Node | Backend
+## Frontend Developer: React | TypeScript | JavaScript | Node | Fullstack
 
 <br>
 <p align="center">
@@ -7,9 +7,9 @@
   </a>
 </p>
 
-I am a frontend focused developer specialising in **React**, **TypeScript**, **JavaScript** (**Tanstack Query, React Router, shadcn/ui, Tailwind CSS, styled-components, Vitest, Lighthouse, accessibility**) with **backend** experience. I speak **English** (native) and **Spanish**.
+I am a frontend focused developer specialising in **React**, **TypeScript**, **JavaScript** with **backend & fullstack** experience. I speak **English** (native) and **Spanish**.
 
-Currently developing a **React** dashboard utilising **Tanstack Table** and **ECharts**.
+Currently developing a **React** dashboard utilising **TanStack Query**, **TanStack Table**, **TanStack Form**, **Uppy** and **ECharts**.
 
 On the backend I have worked with **MongoDB**, **Mongoose**, **Express** and **Node.js**.
 
@@ -21,52 +21,44 @@ You can see evidence of my work on my **React** websites for the Mining Explorat
 
 I have been the sole developer to:
 
-- Raise **Lighthouse** scores in a website overhaul demo by up to 40 points without a CDN and with a large video hero
-
 - Design & implement accessible and responsive designs for any size device, from static webpages to tables with multiple dynamic filters
-
-- Integrate a **React** & **JavaScript** frontend with a **MERN stack backend** including authentication and protected routes using server side sessions
+- Raise **Lighthouse** scores
+- Integrate **React** frontends with **MERN stack backends**
 
 ---
 
 ### Frontend
 
-- **React Hooks**, **React Context**, **React Router**, **Rest APIs**, **Tanstack Query**, **Node.js**
-- Responsive design and accessibility, **CSS Modules**, **Styled-Components**, **Tailwind CSS**
-- **React library components**, **shadcn/ui components**
-- **Vitest**
+- **Node.js**, **React Hooks**, **React Context**, **React Router**, **REST APIs**
+- Responsive design and accessibility, **CSS Modules**, **styled-components**, **Tailwind CSS**
+- **React library components**, **shadcn/ui components**, **TanStack Query**, **TanStack Table**, **TanStack Form**
+- **Vitest / Jest**
 
 ---
 
 ### Backend Experience
 
-Built & deployed middleware and backend to integrate with React:
+Built & deployed backends to integrate with React:
 
-- **Express** (**Express-Sessions**, **Express-Validator**, **Helmet**, **CORS**)
+- **Express** (**Express-Session**, **Express-Validator**, **Helmet**, **CORS**)
 - **Mongo** databases with **Mongoose** (**Mongo Atlas** clusters and **Docker** images with volumes)
 
 ---
 
 ### Deployment & Tooling
 
-- **Docker** & **Docker Compose**. **Deployment** with Railway.com. **Lighthouse**
-- **Claude Code**, **GitHub Copilot** assisted coding in VS Code; LLMs (Open AI o4-mini until withdrawn, Gemini)
+- **Docker** & **Docker Compose**. **Deployment**
+- **Claude Code**, **GitHub Copilot** assisted coding in VS Code; LLMs (OpenAI o4-mini until withdrawn, Gemini)
 - Git & GitHub, npm, pnpm
-- Postman, SonarQube, Prettier & ESLint
-- NVDA / Voice Over (Mac) Screen Reader, WAVE **accessibility testing**
+- Postman, SonarQube, Prettier & ESLint. **Lighthouse**
+- NVDA / VoiceOver (Apple) Screen Reader, WAVE **accessibility testing**
 
 ---
 
 ### Current interests:
 
-- Polling versus socket.io to sync database and UI
-
----
-
-### Dev Environment for VSCode:
-
-- Current: **iMac**
-- Previous: Xubuntu (**Linux** distro based on Debian running in a dual boot machine) & **Windows**
+- Angular
+- SQL databases
 
 ---
 
