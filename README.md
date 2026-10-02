@@ -11,9 +11,9 @@ I am a frontend focused developer specialising in **React**, **TypeScript**, **J
 
 Currently developing a **React** dashboard utilising **TanStack Query**, **TanStack Table**, **TanStack Form**, **Uppy** and **ECharts**.
 
-On the backend I have worked with **MongoDB**, **Mongoose**, **Express** and **Node.js**.
+Typical backend / fullstack: **MongoDB**, **Mongoose**, **Express** and **Node.js**.
 
-I have 2 years of experience in the industry and I have built applications for the Mining Exploration Investment and Financial Products Marketing industries.
+I built projects for 3 years with React and I'm currently building applications Financial Services industries.
 
 Responsible for frontend in a 2 developer team.
 
@@ -48,7 +48,7 @@ Built & deployed backends to integrate with React:
 ### Deployment & Tooling
 
 - **Docker** & **Docker Compose**. **Deployment**
-- **Claude Code**, **GitHub Copilot** assisted coding in VS Code; LLMs (OpenAI o4-mini until withdrawn, Gemini)
+- **Claude Code** (typically containerised and / or in a virtual machine)
 - Git & GitHub, npm, pnpm
 - Postman, SonarQube, Prettier & ESLint. **Lighthouse**
 - NVDA / VoiceOver (Apple) Screen Reader, WAVE **accessibility testing**
@@ -58,7 +58,7 @@ Built & deployed backends to integrate with React:
 ### Current interests:
 
 - Angular
-- SQL databases
+- Relational databases
 
 ---
 
