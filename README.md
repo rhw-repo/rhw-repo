@@ -7,7 +7,7 @@
   </a>
 </p>
 
-I am a frontend leaning developer: **React**, **TypeScript**, **JavaScript** with **backend & fullstack** experience.
+I am a frontend developer: **React**, **TypeScript**, **JavaScript** with **backend & fullstack** experience.
 
 I speak **English** (native) and **Spanish**.
 
